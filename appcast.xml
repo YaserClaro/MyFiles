@@ -6,7 +6,7 @@
             <title>Version 1.0.0</title>
             <sparkle:version>1.0.0</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
-            <enclosure url="https://play.google.com/store/apps/details?id=com.claro.eg" sparkle:os="android" sparkle:version="0.0.7" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.claro.eg" sparkle:os="android" sparkle:version="1.0.0" />
         </item>
         <item>
             <title>Version 1.0.0</title>
