@@ -4,7 +4,7 @@
         <title>Claro EG Appcast</title>
         <item>
             <title>Version 0.0.8</title>
-            <sparkle:version>0.0.8</sparkle:version>
+            <sparkle:version>0.0.9</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags>
             <enclosure url="https://play.google.com/store/apps/details?id=com.claro.eg" sparkle:os="android"  />
         </item>
