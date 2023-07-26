@@ -10,7 +10,9 @@
         <item>
             <title>Version 0.0.8</title>
             <sparkle:version>0.0.8</sparkle:version>
+            <!--
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
+            -->
             <enclosure url="https://apps.apple.com/us/app/claro-eg/id6447195527" sparkle:os="ios" />
         </item>
     </channel>
