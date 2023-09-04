@@ -3,14 +3,14 @@
     <channel>
         <title>Claro EG Appcast</title>
         <item>
-            <title>1.0.31</title>
-            <sparkle:version>1.0.31</sparkle:version>
+            <title>1.0.32</title>
+            <sparkle:version>1.0.32</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
             <enclosure url="https://play.google.com/store/apps/details?id=com.claro.eg" sparkle:os="android"  />
         </item>
         <item>
-            <title>1.0.31</title>
-            <sparkle:version>1.0.31</sparkle:version>
+            <title>1.0.32</title>
+            <sparkle:version>1.0.32</sparkle:version>
             <sparkle:tags> <sparkle:criticalUpdate /> </sparkle:tags> 
             <enclosure url="https://apps.apple.com/us/app/claro-eg/id6447195527" sparkle:os="ios" />
         </item>
